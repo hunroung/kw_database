@@ -8,6 +8,7 @@ do
 done
 
 # compare the result.txt with 2019203076.txt
+
 diff result.txt 2019203076.txt > final.txt
 rm 2019203076.txt
 
@@ -18,4 +19,5 @@ then
 else
     echo "The result is correct"
 fi
+
 rm final.txt
