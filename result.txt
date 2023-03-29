@@ -1,0 +1,33 @@
+Einstein
+Gold
+Robotics
+Image Processing
+Database System Concepts
+CS-101|Intro. to Computer Science
+CS-319|Image Processing
+11
+00128|7
+12345|14
+19991|3
+23121|3
+44553|4
+45678|11
+54321|8
+55739|3
+76543|7
+76653|3
+98765|7
+98988|8
+Shankar
+Brandt
+Chavez
+Levy
+Williams
+Sanchez
+Brown
+Aoi
+Bourikas
+Snow
+33456|Gold
+58583|Califieri
+76543|Singh
